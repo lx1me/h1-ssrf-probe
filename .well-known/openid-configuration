@@ -1,6 +1,7 @@
 {
   "issuer": "https://cdn.jsdelivr.net/gh/lx1me/h1-ssrf-probe@main",
-  "jwks_uri": "https://webhook.site/77ab3a00-364a-441b-9fe7-bc353e48f780/jwks.json",
-  "authorization_endpoint": "https://webhook.site/97a5485d-800e-4a4a-b086-398989bb14c0/auth",
-  "token_endpoint": "https://webhook.site/97a5485d-800e-4a4a-b086-398989bb14c0/token"
+  "jwks_uri": "https://cdn.jsdelivr.net/gh/lx1me/h1-ssrf-probe@main/jwks.json",
+  "authorization_endpoint": "https://cdn.jsdelivr.net/gh/lx1me/h1-ssrf-probe@main/auth",
+  "token_endpoint": "https://cdn.jsdelivr.net/gh/lx1me/h1-ssrf-probe@main/token.json",
+  "userinfo_endpoint": "https://cdn.jsdelivr.net/gh/lx1me/h1-ssrf-probe@main/jwks.json"
 }
